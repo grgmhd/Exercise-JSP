@@ -1,6 +1,6 @@
 package log.inout;
 
-import dbConn.ConnOracle;
+import db.conn.ConnOracle;
 
 public class LogDAO extends ConnOracle {
 
